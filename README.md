@@ -1,15 +1,7 @@
-# Feiyang Ying 应飞扬
+# Feiyang Ying 应飞扬 ʕ•ᴥ•ʔ
 
-```text
- ʕ•ᴥ•ʔ  PS> whoami
-        Curious about NLP and model behavior.
+I'm an undergraduate at Chongqing University, curious about how language models represent information, why they behave as they do, and how to tell whether a change actually helps.
 
-        PS> workflow
-        Ask → Build → Test → Rethink
-```
-
-I'm an undergraduate at Chongqing University. I like moving between questions and code: finding problems worth investigating, testing ideas carefully, and building tools that help me understand what actually works. When the evidence changes, I try to change my mind with it.
-
-The projects below are part of that exploration.
+I move between research and code: building tools, testing ideas, and changing my mind when the evidence disagrees.
 
 🌐 [feiyangying.com](https://www.feiyangying.com/)
